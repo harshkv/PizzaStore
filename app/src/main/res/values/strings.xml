@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="add_toppings">ADD TOPPINGS</string>
+    <string name="clear">CLEAR PIZZA</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="youroorder">Your Order</string>
+    <string name="baseprice">Base Price :</string>
+    <string name="toping">Toppings :</string>
+    <string name="deliveryCost">Delivery Cost :</string>
+    <string name="total">Total Cost :</string>
+    <string name="finish"> FINISH </string>
+
+</resources>
